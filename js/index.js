@@ -1,4 +1,4 @@
-var nome = "Laura Fernandes";
+var nome = "Laura Iolanda Ruas Fernandes";
 var cargo = "Desenvolvedora"
 var nomehtml = document.getElementById("nome-no-html");
 var cargohtml = document.getElementById("cargo-no-html");
